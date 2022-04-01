@@ -1,4 +1,5 @@
 
+from school_schedule.student import Student #You can also import specific function within the class by calling them with tuples nect to the import keyword. 
 
 #first instance
 quinn = Student(
@@ -38,3 +39,4 @@ claire.summary()
 # Extra:
 # - create a function that will return the student with more classes
 # - create a test for that function
+
